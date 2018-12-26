@@ -6,4 +6,4 @@ The algorithm is too simple so don't use it to encrypt important files!
 .
 .
 .
-any help to improve GUI or etc is appreciated!
+any help to improve GUI, etc is appreciated!
